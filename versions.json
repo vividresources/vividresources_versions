@@ -2,7 +2,7 @@
   {
     "script": "vivid-claiming",
     "version": "0.1.0",
-    "note": "Improved threshold handling and performance.",
+    "note": "First Release",
     "required": false
   }
 ]
