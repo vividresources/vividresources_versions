@@ -1,0 +1,8 @@
+[
+  {
+    "script": "vivid-claiming",
+    "version": "0.2.0",
+    "note": "Improved threshold handling and performance.",
+    "required": false
+  }
+]
