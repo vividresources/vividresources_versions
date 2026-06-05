@@ -1,8 +1,8 @@
 [
   {
     "script": "vivid-claiming",
-    "version": "0.1.0",
-    "note": "First Release",
+    "version": "0.1.1",
+    "note": "Claiming UI Overhaul Heaps of changes!",
     "required": false
   }
 ]
