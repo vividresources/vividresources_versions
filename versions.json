@@ -4,5 +4,11 @@
     "version": "0.1.1",
     "note": "Claiming UI Overhaul Heaps of changes!",
     "required": false
-  }
+  },
+  {
+  "script": "vivid-prison",
+  "version": "0.1.0",
+  "note": "Inital Release",
+  "required": false
+}
 ]
