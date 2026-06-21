@@ -10,5 +10,11 @@
   "version": "0.1.0",
   "note": "Inital Release",
   "required": false
+},
+{
+  "script": "vivid-pdbadge",
+  "version": "0.0.1",
+  "note": "Initial release",
+  "required": false
 }
 ]
